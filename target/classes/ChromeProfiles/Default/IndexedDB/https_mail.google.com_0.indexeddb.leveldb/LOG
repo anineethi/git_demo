@@ -1,0 +1,9 @@
+2022/03/20-14:20:17.223 3a9c Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/20-14:20:17.223 3a9c Recovering log #38
+2022/03/20-14:20:17.229 3a9c Reusing old log C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000038.log 
+2022/03/20-14:20:20.410 1fb4 Compacting 1@1 + 1@2 files
+2022/03/20-14:20:20.424 1fb4 Generated table #41@1: 207 keys, 368155 bytes
+2022/03/20-14:20:20.424 1fb4 Compacted 1@1 + 1@2 files => 368155 bytes
+2022/03/20-14:20:20.426 1fb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/20-14:20:20.427 1fb4 Delete type=2 #36
+2022/03/20-14:20:20.427 1fb4 Delete type=2 #39

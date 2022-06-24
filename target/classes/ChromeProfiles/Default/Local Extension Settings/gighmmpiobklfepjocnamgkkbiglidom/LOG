@@ -1,0 +1,79 @@
+2022/03/22-14:36:39.766 34fc Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2022/03/22-14:36:39.766 34fc Recovering log #1570
+2022/03/22-14:36:39.831 34fc Level-0 table #1575: started
+2022/03/22-14:36:39.930 34fc Level-0 table #1575: 7551523 bytes OK
+2022/03/22-14:36:39.940 34fc Delete type=0 #1570
+2022/03/22-14:37:43.421 ebc Level-0 table #1578: started
+2022/03/22-14:37:43.446 4ac8 Current memtable full; waiting...
+2022/03/22-14:37:43.507 ebc Level-0 table #1578: 7551468 bytes OK
+2022/03/22-14:37:43.512 ebc Delete type=0 #1576
+2022/03/22-14:37:43.515 ebc Level-0 table #1580: started
+2022/03/22-14:37:43.603 ebc Level-0 table #1580: 7551333 bytes OK
+2022/03/22-14:37:43.607 ebc Delete type=0 #1577
+2022/03/22-14:37:44.367 4ac8 Level-0 table #1582: started
+2022/03/22-14:37:44.441 4ac8 Level-0 table #1582: 7553207 bytes OK
+2022/03/22-14:37:44.446 4ac8 Delete type=0 #1579
+2022/03/22-14:37:44.450 4ac8 Compacting 4@0 + 2@1 files
+2022/03/22-14:37:44.594 4ac8 Generated table #1583@0: 1 keys, 7552990 bytes
+2022/03/22-14:37:44.603 4ac8 Generated table #1584@0: 8 keys, 456 bytes
+2022/03/22-14:37:44.603 4ac8 Compacted 4@0 + 2@1 files => 7553446 bytes
+2022/03/22-14:37:44.606 4ac8 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/22-14:37:44.606 4ac8 Delete type=2 #1572
+2022/03/22-14:37:44.606 4ac8 Delete type=2 #1573
+2022/03/22-14:37:44.606 4ac8 Delete type=2 #1575
+2022/03/22-14:37:44.606 4ac8 Delete type=2 #1578
+2022/03/22-14:37:44.606 4ac8 Delete type=2 #1580
+2022/03/22-14:37:44.606 4ac8 Delete type=2 #1582
+2022/03/22-14:39:21.407 370c Level-0 table #1586: started
+2022/03/22-14:39:21.500 370c Level-0 table #1586: 7540743 bytes OK
+2022/03/22-14:39:21.505 370c Delete type=0 #1581
+2022/03/22-16:51:28.204 49f0 Level-0 table #1588: started
+2022/03/22-16:51:28.283 49f0 Level-0 table #1588: 7540685 bytes OK
+2022/03/22-16:51:28.289 49f0 Delete type=0 #1585
+2022/03/22-16:51:28.516 3ccc Level-0 table #1590: started
+2022/03/22-16:51:28.586 3ccc Level-0 table #1590: 7540564 bytes OK
+2022/03/22-16:51:28.590 3ccc Delete type=0 #1587
+2022/03/22-16:51:30.094 49f0 Level-0 table #1592: started
+2022/03/22-16:51:30.167 49f0 Level-0 table #1592: 7540747 bytes OK
+2022/03/22-16:51:30.170 49f0 Delete type=0 #1589
+2022/03/22-16:51:30.171 49f0 Compacting 4@0 + 2@1 files
+2022/03/22-16:51:30.391 49f0 Generated table #1593@0: 1 keys, 7540549 bytes
+2022/03/22-16:51:30.402 49f0 Generated table #1594@0: 8 keys, 456 bytes
+2022/03/22-16:51:30.402 49f0 Compacted 4@0 + 2@1 files => 7541005 bytes
+2022/03/22-16:51:30.405 49f0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/22-16:51:30.407 49f0 Delete type=2 #1583
+2022/03/22-16:51:30.407 49f0 Delete type=2 #1584
+2022/03/22-16:51:30.407 49f0 Delete type=2 #1586
+2022/03/22-16:51:30.407 49f0 Delete type=2 #1588
+2022/03/22-16:51:30.407 49f0 Delete type=2 #1590
+2022/03/22-16:51:30.407 49f0 Delete type=2 #1592
+2022/03/22-17:51:26.860 49b0 Level-0 table #1596: started
+2022/03/22-17:51:26.937 49b0 Level-0 table #1596: 7540549 bytes OK
+2022/03/22-17:51:26.941 49b0 Delete type=0 #1591
+2022/03/22-17:51:27.770 9ec Level-0 table #1598: started
+2022/03/22-17:51:27.843 9ec Level-0 table #1598: 7540552 bytes OK
+2022/03/22-17:51:27.847 9ec Delete type=0 #1595
+2022/03/22-18:51:27.130 1f3c Level-0 table #1600: started
+2022/03/22-18:51:27.222 1f3c Level-0 table #1600: 7540552 bytes OK
+2022/03/22-18:51:27.226 1f3c Delete type=0 #1597
+2022/03/22-18:51:27.234 1e18 Level-0 table #1602: started
+2022/03/22-18:51:27.331 1e18 Level-0 table #1602: 7540549 bytes OK
+2022/03/22-18:51:27.335 1e18 Delete type=0 #1599
+2022/03/22-18:51:27.337 1e18 Compacting 4@0 + 1@1 files
+2022/03/22-18:51:27.619 1e18 Generated table #1603@0: 1 keys, 7540549 bytes
+2022/03/22-18:51:27.625 1e18 Compacted 4@0 + 1@1 files => 7540549 bytes
+2022/03/22-18:51:27.628 1e18 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/22-18:51:27.628 1e18 Delete type=2 #1593
+2022/03/22-18:51:27.628 1e18 Delete type=2 #1596
+2022/03/22-18:51:27.628 1e18 Delete type=2 #1598
+2022/03/22-18:51:27.628 1e18 Delete type=2 #1600
+2022/03/22-18:51:27.628 1e18 Delete type=2 #1602
+2022/03/23-18:08:12.070 730 Level-0 table #1605: started
+2022/03/23-18:08:12.167 730 Level-0 table #1605: 7540754 bytes OK
+2022/03/23-18:08:12.172 730 Delete type=0 #1601
+2022/03/23-18:08:13.481 1f3c Level-0 table #1607: started
+2022/03/23-18:08:13.571 1f3c Level-0 table #1607: 7540560 bytes OK
+2022/03/23-18:08:13.576 1f3c Delete type=0 #1604
+2022/03/23-18:48:53.658 1718 Level-0 table #1609: started
+2022/03/23-18:48:53.771 1718 Level-0 table #1609: 7540624 bytes OK
+2022/03/23-18:48:53.775 1718 Delete type=0 #1606

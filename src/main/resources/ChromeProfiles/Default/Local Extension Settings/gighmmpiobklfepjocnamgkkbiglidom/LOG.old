@@ -1,0 +1,43 @@
+2022/03/20-14:20:09.584 3540 Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2022/03/20-14:20:09.584 3540 Recovering log #1555
+2022/03/20-14:20:09.620 3540 Level-0 table #1558: started
+2022/03/20-14:20:09.711 3540 Level-0 table #1558: 7551525 bytes OK
+2022/03/20-14:20:09.719 3540 Delete type=0 #1555
+2022/03/20-14:21:12.836 1fb4 Level-0 table #1561: started
+2022/03/20-14:21:12.921 1fb4 Level-0 table #1561: 7551448 bytes OK
+2022/03/20-14:21:12.926 1fb4 Delete type=0 #1559
+2022/03/20-14:21:12.929 4404 Compacting 4@0 + 2@1 files
+2022/03/20-14:21:13.056 4404 Generated table #1562@0: 1 keys, 7551331 bytes
+2022/03/20-14:21:13.064 4404 Generated table #1563@0: 8 keys, 456 bytes
+2022/03/20-14:21:13.065 4404 Compacted 4@0 + 2@1 files => 7551787 bytes
+2022/03/20-14:21:13.067 4404 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/20-14:21:13.067 4404 Delete type=2 #1543
+2022/03/20-14:21:13.067 4404 Delete type=2 #1552
+2022/03/20-14:21:13.067 4404 Delete type=2 #1554
+2022/03/20-14:21:13.067 4404 Delete type=2 #1556
+2022/03/20-14:21:13.067 4404 Delete type=2 #1558
+2022/03/20-14:21:13.067 4404 Delete type=2 #1561
+2022/03/20-14:27:19.493 21f0 Level-0 table #1565: started
+2022/03/20-14:27:19.587 21f0 Level-0 table #1565: 7551331 bytes OK
+2022/03/20-14:27:19.592 21f0 Delete type=0 #1560
+2022/03/20-15:21:13.383 5e8 Level-0 table #1567: started
+2022/03/20-15:21:13.492 5e8 Level-0 table #1567: 7551422 bytes OK
+2022/03/20-15:21:13.499 5e8 Delete type=0 #1564
+2022/03/20-16:21:12.118 3c50 Level-0 table #1569: started
+2022/03/20-16:21:12.213 3d08 Current memtable full; waiting...
+2022/03/20-16:21:12.278 3c50 Level-0 table #1569: 7551336 bytes OK
+2022/03/20-16:21:12.286 3c50 Delete type=0 #1566
+2022/03/20-16:21:12.291 3c50 Level-0 table #1571: started
+2022/03/20-16:21:12.398 3c50 Level-0 table #1571: 7551331 bytes OK
+2022/03/20-16:21:12.401 3c50 Delete type=0 #1568
+2022/03/20-16:21:12.404 3c50 Compacting 4@0 + 2@1 files
+2022/03/20-16:21:12.616 3c50 Generated table #1572@0: 1 keys, 7551331 bytes
+2022/03/20-16:21:12.627 3c50 Generated table #1573@0: 8 keys, 456 bytes
+2022/03/20-16:21:12.627 3c50 Compacted 4@0 + 2@1 files => 7551787 bytes
+2022/03/20-16:21:12.629 3c50 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/20-16:21:12.629 3c50 Delete type=2 #1562
+2022/03/20-16:21:12.629 3c50 Delete type=2 #1563
+2022/03/20-16:21:12.629 3c50 Delete type=2 #1565
+2022/03/20-16:21:12.629 3c50 Delete type=2 #1567
+2022/03/20-16:21:12.630 3c50 Delete type=2 #1569
+2022/03/20-16:21:12.630 3c50 Delete type=2 #1571

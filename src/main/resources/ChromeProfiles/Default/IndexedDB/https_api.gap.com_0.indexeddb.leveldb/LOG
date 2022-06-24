@@ -1,0 +1,6 @@
+2021/11/26-08:07:06.191 c44 Creating DB C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_api.gap.com_0.indexeddb.leveldb since it was missing.
+2021/11/26-08:07:06.197 c44 Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_api.gap.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/26-08:07:47.734 bec Level-0 table #5: started
+2021/11/26-08:07:47.737 bec Level-0 table #5: 1845 bytes OK
+2021/11/26-08:07:47.739 bec Delete type=0 #3
+2021/11/26-08:07:47.740 bec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

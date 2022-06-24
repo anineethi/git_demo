@@ -1,0 +1,6 @@
+2022/03/11-18:30:17.958 2d78 Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/11-18:30:17.958 2d78 Recovering log #34
+2022/03/11-18:30:17.963 2d78 Reusing old log C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000034.log 
+2022/03/11-18:30:37.457 17bc Level-0 table #39: started
+2022/03/11-18:30:37.489 17bc Level-0 table #39: 2029795 bytes OK
+2022/03/11-18:30:37.493 17bc Delete type=0 #34

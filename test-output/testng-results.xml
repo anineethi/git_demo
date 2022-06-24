@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CheckBoxMobileTestSuite" duration-ms="6786" started-at="2022-03-24T00:03:36Z" finished-at="2022-03-24T00:03:43Z">
+    <groups>
+    </groups>
+    <test name="CheckBoxPageMobileTest-android" duration-ms="4249" started-at="2022-03-24T00:03:36Z" finished-at="2022-03-24T00:03:40Z">
+      <class name="com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String, java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest@47c62251]" name="setUp" is-config="true" duration-ms="1972" started-at="2022-03-24T00:03:36Z" finished-at="2022-03-24T00:03:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest.selectingCheckBoxTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pixel 2 XL]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[org.testng.TestRunner@3d08f3f5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectingCheckBoxTest()[pri:0, instance:com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest@47c62251]" name="selectingCheckBoxTest" duration-ms="1305" started-at="2022-03-24T00:03:38Z" finished-at="2022-03-24T00:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingCheckBoxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest@47c62251]" name="tearDown" is-config="true" duration-ms="644" started-at="2022-03-24T00:03:40Z" finished-at="2022-03-24T00:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest -->
+    </test> <!-- CheckBoxPageMobileTest-android -->
+    <test name="CheckBoxPageMobileTest-IOS" duration-ms="2521" started-at="2022-03-24T00:03:40Z" finished-at="2022-03-24T00:03:43Z">
+      <class name="com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String, java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest@14bf9759]" name="setUp" is-config="true" duration-ms="1224" started-at="2022-03-24T00:03:40Z" finished-at="2022-03-24T00:03:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest.selectingCheckBoxTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[iPhone X]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[org.testng.TestRunner@119f1f2a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectingCheckBoxTest()[pri:0, instance:com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest@14bf9759]" name="selectingCheckBoxTest" duration-ms="674" started-at="2022-03-24T00:03:42Z" finished-at="2022-03-24T00:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingCheckBoxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest@14bf9759]" name="tearDown" is-config="true" duration-ms="622" started-at="2022-03-24T00:03:42Z" finished-at="2022-03-24T00:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest -->
+    </test> <!-- CheckBoxPageMobileTest-IOS -->
+  </suite> <!-- CheckBoxMobileTestSuite -->
+</testng-results>

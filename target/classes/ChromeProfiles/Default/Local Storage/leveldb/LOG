@@ -1,0 +1,6 @@
+2022/03/22-14:36:39.438 294c Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb/MANIFEST-000001
+2022/03/22-14:36:39.439 294c Recovering log #279
+2022/03/22-14:36:39.440 294c Reusing old log C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb/000279.log 
+2022/03/23-18:48:54.927 fa8 Level-0 table #284: started
+2022/03/23-18:48:54.931 fa8 Level-0 table #284: 28028 bytes OK
+2022/03/23-18:48:54.934 fa8 Delete type=0 #279

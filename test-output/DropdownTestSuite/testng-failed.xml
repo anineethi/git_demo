@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DropdownTestSuite]">
+  <test thread-count="5" name="DropdownTest(failed)">
+    <classes>
+      <class name="com.herokuapp.theinternet.DropdownTest.DropdownTest">
+        <methods>
+          <include name="optionTwoTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.herokuapp.theinternet.DropdownTest.DropdownTest -->
+    </classes>
+  </test> <!-- DropdownTest(failed) -->
+</suite> <!-- Failed suite [DropdownTestSuite] -->

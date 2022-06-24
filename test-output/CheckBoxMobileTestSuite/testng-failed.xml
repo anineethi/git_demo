@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [CheckBoxMobileTestSuite]">
+  <test thread-count="5" name="CheckBoxPageMobileTest-android(failed)">
+    <parameter name="deviceName" value="Pixel 5"/>
+    <classes>
+      <class name="com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest">
+        <methods>
+          <include name="selectingCheckBoxTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest -->
+    </classes>
+  </test> <!-- CheckBoxPageMobileTest-android(failed) -->
+  <test thread-count="5" name="CheckBoxPageMobileTest-IOS(failed)">
+    <parameter name="deviceName" value="iPhone 12 Pro"/>
+    <classes>
+      <class name="com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest">
+        <methods>
+          <include name="selectingCheckBoxTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.herokuapp.theinternet.CheckBoxPageTest.CheckBoxPageTest -->
+    </classes>
+  </test> <!-- CheckBoxPageMobileTest-IOS(failed) -->
+</suite> <!-- Failed suite [CheckBoxMobileTestSuite] -->

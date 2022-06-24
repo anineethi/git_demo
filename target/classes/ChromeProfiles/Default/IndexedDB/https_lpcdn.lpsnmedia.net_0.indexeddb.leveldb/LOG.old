@@ -1,0 +1,7 @@
+2021/11/26-20:01:21.008 2b3c Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/26-20:01:21.008 2b3c Recovering log #3
+2021/11/26-20:01:21.008 2b3c Reusing old log C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000003.log 
+2021/11/26-20:11:07.847 263c Level-0 table #5: started
+2021/11/26-20:11:07.849 263c Level-0 table #5: 6866 bytes OK
+2021/11/26-20:11:07.850 263c Delete type=0 #3
+2021/11/26-20:11:07.852 263c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

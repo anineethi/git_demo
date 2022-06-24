@@ -1,0 +1,40 @@
+{
+   "checksum": "1bb26ae6f9bbefba5d1847be002068d9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13288317226923145",
+            "guid": "2f4d1d04-6959-43e6-a07f-13d3a9bf730a",
+            "id": "5",
+            "name": "ISTQB certification exam 2022",
+            "type": "url",
+            "url": "https://istqb.patshala.com/"
+         } ],
+         "date_added": "13288305196165938",
+         "date_modified": "13288317226923145",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13288305196165942",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13288305196165944",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

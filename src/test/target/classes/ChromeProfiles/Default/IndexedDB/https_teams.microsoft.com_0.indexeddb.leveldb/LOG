@@ -1,0 +1,7 @@
+2022/03/11-18:31:05.691 5784 Reusing MANIFEST C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/11-18:31:05.691 5784 Recovering log #3
+2022/03/11-18:31:05.699 5784 Reusing old log C:\Users\NeethiAni\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_teams.microsoft.com_0.indexeddb.leveldb/000003.log 
+2022/03/14-15:22:17.778 4fdc Level-0 table #5: started
+2022/03/14-15:22:17.782 4fdc Level-0 table #5: 933 bytes OK
+2022/03/14-15:22:17.787 4fdc Delete type=0 #3
+2022/03/14-15:22:17.788 4fdc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
